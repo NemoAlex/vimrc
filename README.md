@@ -2,11 +2,13 @@ Alex's vimrc
 ============
 Author: Nemo Alex <zhhjchina@gmail.com>
 
-I configed this for front end Web developers who use Vim.
+The configuration is useful for front end Web developers.
 
-The vimrc has fully used Vundle, so it clearly dosen't contains any other Vim scripts codes. 
+It's also MacVim friendly. If you don't use Gui Vim or use other Gui, just edit `gvimrc` for further configuration.
 
- hope you like it.
+The vimrc has fully used Vundle, so it clearly dosen't contains any other Vim scripts codes.
+
+Hope you like it.
 
 INSTALL
 --------------
