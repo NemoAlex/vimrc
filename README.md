@@ -2,9 +2,9 @@ Alex's vimrc
 ============
 Author: Nemo Alex <zhhjchina@gmail.com>
 
-The configuration is useful for front end Web developers.
+The configuration is useful for front end web developers.
 
-It's also MacVim friendly. If you don't use Gui Vim or use other Gui, just edit `gvimrc` for further configuration.
+It also is a MacVim friendly configuration. If you don't use Gui Vim or use other Gui, just edit `gvimrc` for further configuration.
 
 The vimrc has fully used Vundle, so it clearly dosen't contains any other Vim scripts codes.
 
@@ -13,7 +13,7 @@ Hope you like it.
 INSTALL
 --------------
 
-1. Check Github
+1. Check out Github
 
     	git clone https://github.com/NemoAlex/vimrc.git ~/.vim/
 
@@ -27,7 +27,7 @@ INSTALL
 		git submodule init
 		git submodule update 
 
-4. Open Vim
+4. Run Vim
 
 	Type in `:BundleInstall` to starting checking bundles in Github. It may takes a while.
 
