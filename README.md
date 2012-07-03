@@ -29,7 +29,7 @@ INSTALL
 
 4. Run Vim
 
-	Type in `:BundleInstall` to starting checking bundles in Github. It may takes a while.
+	Type in `:BundleInstall` to starting checking bundles in Github. This may take a while.
 
 	Check [Vundule](https://github.com/gmarik/vundle) manual to know how to use it.
 
