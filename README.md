@@ -37,7 +37,6 @@ INSTALL
 
 PLUGINS
 --------------
-* [L9](http://www.vim.org/scripts/script.php?script_id=3252)
 * [scrooloose/nerdtree](https://github.com/scrooloose/nerdtree)
 * [css3](http://www.vim.org/scripts/script.php?script_id=3042)
 * [bufexplorer.zip](http://www.vim.org/scripts/script.php?script_id=42)
