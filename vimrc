@@ -11,7 +11,6 @@ Bundle 'gmarik/vundle'
 
 " My Bundles here:
 "
-Bundle 'L9'
 Bundle 'scrooloose/nerdtree'
 Bundle 'css3'
 Bundle 'bufexplorer.zip'
